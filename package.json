@@ -1,0 +1,26 @@
+{
+  "name": "interdependent-event-emitter",
+  "version": "1.0.0",
+  "description": "Listen for several events at a time, the callback will be called only when all of the events are emitted",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lubobill1990/interdependent-event-emitter.git"
+  },
+  "keywords": [
+    "event",
+    "emitter",
+    "interdependent",
+    "event",
+    "emitter"
+  ],
+  "author": "lubobill1990",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lubobill1990/interdependent-event-emitter/issues"
+  },
+  "homepage": "https://github.com/lubobill1990/interdependent-event-emitter#readme"
+}
